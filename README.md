@@ -425,13 +425,25 @@ Possible future improvements include:
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Developer
+## 👨‍💻 Developers
 
-Developed as an academic project using Flutter and Dart.
+Developed as an academic group project using Flutter and Dart.
 
-**Developer:** Bhavy Chauhan\
-**Course:** Integrated M.Sc. (CA & IT)\
-**University:** Gujarat University\
+### Group Members
+
+**1. Bhavy Chauhan N.**  
+- Roll No.: 5191  
+- Enrollment No.: 202211100018  
+- Division: B  
+- Course: Integrated M.Sc. (CA & IT)  
+
+**2. Dhruv Mali A.**  
+- Roll No.: 5223  
+- Enrollment No.: 202211100122  
+- Division: B  
+- Course: Integrated M.Sc. (CA & IT)  
+
+**University:** Gujarat University  
 **Project:** MediScan Lite
 
 ------------------------------------------------------------------------
